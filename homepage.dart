@@ -18,21 +18,7 @@ class _HomePageState extends State<HomePage> {
           Text("Tic Toc Toe",
         style:TextStyle(color:Colors.white,fontSize: 50,fontStyle: FontStyle.normal)),
         SizedBox(height: 60),
-        //   Row(
-        //     mainAxisAlignment: MainAxisAlignment.center,
-        //     children:<Widget>[
-        //     Text("×",
-        //     style:TextStyle(
-        //       color:Colors.white,
-        //       fontSize: 80,
-        //       )),
-        //     SizedBox( width:15),
-        //     Text("Ｏ",
-        //     style:TextStyle(
-        //       color:Colors.white,
-        //       fontSize: 55)),
-        //   ],
-        // ),
+
         Container(
           alignment: Alignment.center,
           height:400,
