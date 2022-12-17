@@ -22,12 +22,10 @@ class _HomePageState extends State<HomePage> {
         Container(
           alignment: Alignment.center,
           height:400,
-          //width: MediaQuery.of(context).size.width,
           child: Card(
             shape: RoundedRectangleBorder(
             borderRadius:BorderRadius.circular(10.0)),
             child:Column(
-              //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 SizedBox(height:80,width:300),
                 Text("START PLAYING !",
